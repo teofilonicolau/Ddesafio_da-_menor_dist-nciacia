@@ -12,7 +12,7 @@ A menor distância seria a combinação do número 5 do array 1 com o número 6 
 
 ## Como Executar
 
-1.https://replit.com/@TeofiloNicolau/ImaginaryCrazyArray- Clique para executar online.
+1https://replit.com/@TeofiloNicolau/Desafio-da-Menor-Distancia#main.cpp- Clique para executar online.
 
 
 ## Resultado Esperado
